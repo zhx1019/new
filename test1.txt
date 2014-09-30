@@ -1,0 +1,8 @@
+this is the first branch test 
+commit
+
+git branch this is the first branch test 
+commit
+
+git branch # build new branch 
+git checkout branchname  # change to another branch 
